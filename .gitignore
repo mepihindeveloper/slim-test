@@ -1,0 +1,13 @@
+.idea/
+/vendor/
+
+# Исключение runtime файлов, кроме описания
+!runtime/
+runtime/*
+!runtime/README.md
+!runtime/cache/
+runtime/cache/*
+!runtime/cache/README.md
+!runtime/log/
+runtime/log/*
+!runtime/log/README.md
